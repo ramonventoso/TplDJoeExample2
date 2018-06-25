@@ -1,0 +1,6 @@
+C:\Users\ventora\Documents\crsr\tsk\materials\intro-async-parallel-dotnet4-m2-tcw-exercise-files\exercise-files\before\StockHistory-Async\StockHistory\bin\Release\StockHistory.exe
+C:\Users\ventora\Documents\crsr\tsk\materials\intro-async-parallel-dotnet4-m2-tcw-exercise-files\exercise-files\before\StockHistory-Async\StockHistory\bin\Release\StockHistory.pdb
+C:\Users\ventora\Documents\crsr\tsk\materials\intro-async-parallel-dotnet4-m2-tcw-exercise-files\exercise-files\before\StockHistory-Async\StockHistory\obj\Release\StockHistory.csprojResolveAssemblyReference.cache
+C:\Users\ventora\Documents\crsr\tsk\materials\intro-async-parallel-dotnet4-m2-tcw-exercise-files\exercise-files\before\StockHistory-Async\StockHistory\obj\Release\StockHistory.csproj.CoreCompileInputs.cache
+C:\Users\ventora\Documents\crsr\tsk\materials\intro-async-parallel-dotnet4-m2-tcw-exercise-files\exercise-files\before\StockHistory-Async\StockHistory\obj\Release\StockHistory.exe
+C:\Users\ventora\Documents\crsr\tsk\materials\intro-async-parallel-dotnet4-m2-tcw-exercise-files\exercise-files\before\StockHistory-Async\StockHistory\obj\Release\StockHistory.pdb
